@@ -78,8 +78,8 @@ class Validator{
 }
 
 
-$name = "ahmed mohamed";
-$email = "ahmed@gmail.com";
+$name = "zeyad mohamed";
+$email = "ahmed@gmail.com.com";
 $phone = "010638644";
 $password = "Password@1212";
 // $confirm_password = "Password@123";
@@ -113,6 +113,5 @@ if(count($validator->getErrors()) == 0){
 }else{
     var_dump($validator->getErrors());
 }
-
 
 ?>
