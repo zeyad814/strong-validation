@@ -79,7 +79,7 @@ class Validator{
 
 
 
-$name = "ahmed mohamed";
+$name = "hamada ";
 $email = "diaa@gmail.com";
 $phone = "010638644";
 $password = "Password@1212";
