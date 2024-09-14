@@ -78,8 +78,9 @@ class Validator{
 }
 
 
-$name = "zeyad mohamed";
-$email = "ahmed@gmail.com.com";
+
+$name = "ahmed mohamed";
+$email = "diaa@gmail.com";
 $phone = "010638644";
 $password = "Password@1212";
 // $confirm_password = "Password@123";
